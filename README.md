@@ -17,7 +17,7 @@ sudo ./LCD-hdmi<br>
 ### Si quieres eliminar el software gestión de la pantalla LCD una vez confirmes que funciona el HDMI puedes hacer:
 sudo rm -rf LCD-show<br>
 
-#Wiki
+# Wiki
 ### Install drivers in the Ubuntu system
 https://github.com/lcdwiki/LCD-show-ubuntu
 

@@ -18,7 +18,7 @@ sudo ./LCD-hdmi<br>
 sudo rm -rf LCD-show<br>
 
 # Wiki
-###Imagenes
+### Imagenes
 http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
 
 ### Install drivers in the Ubuntu system

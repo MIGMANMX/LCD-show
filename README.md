@@ -8,7 +8,15 @@ sudo ./LCD35-show<br>
 
 Apaga la Raspberry, desconecta el HDMI y pon la pantalla pequeña y vuelve a encender y ya debería funcionar.<br>
 
+### Si quieres volver a usar el HDMI los comandos serían:
+Abre la Terminal de Raspbian (un icono como una pantalla negra) y escribe estos comandos exactamente:<br>
+cd LCD-show/<br>
+sudo ./LCD-hdmi<br>
 
+### Si quieres eliminar el software gestión de la pantalla LCD una vez confirmes que funciona el HDMI puedes hacer:
+sudo rm -rf LCD-show<br>
+
+====================================================
 
 
 ### Install drivers in the Ubuntu system

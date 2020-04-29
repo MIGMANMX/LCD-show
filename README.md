@@ -1,7 +1,8 @@
+# Instalar pantalla 3.5" LCD en Raspberry Pi
 ### Abre la Terminal de Raspbian (un icono como una pantalla negra) y escribe estos comandos exactamente: <br>
 sudo rm -rf LCD-show<br>
 sudo apt install git<br>
-git clone https://github.com/goodtft/LCD-show.git<br>
+git clone https://github.com/MIGMANMX/LCD-show.git<br>
 chmod -R 755 LCD-show<br>
 cd LCD-show/<br>
 sudo ./LCD35-show<br>
@@ -17,7 +18,7 @@ sudo ./LCD-hdmi<br>
 sudo rm -rf LCD-show<br>
 
 ====================================================
-
+#Wiki
 
 ### Install drivers in the Ubuntu system
 https://github.com/lcdwiki/LCD-show-ubuntu
